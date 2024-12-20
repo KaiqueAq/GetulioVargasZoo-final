@@ -48,4 +48,11 @@ abstratas e herança múltipla).
  Documentação explicativa que descreva a lógica implementada.
  Funcionalidade e saída do programa que atenda aos requisitos especificados. 
 
+Autores
+. Caique Mendes
+. kaique Aquino
+. Ielson Dias 
+. Vinicios castro 
+. Renato Santos
+
 
